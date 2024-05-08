@@ -2,4 +2,6 @@
 /lp2
 lp2 lagacy
 *.exe
-lp2index.pdf
+*.pdf
+*.docx
+*.pl~
